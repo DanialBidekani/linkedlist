@@ -2,6 +2,7 @@
 this repository is my implementation of linked list
 i implement all functions you need in a linked list
 here is all functions:
+```
 - travers()
 - append()
 - insert()
@@ -29,3 +30,4 @@ here is all functions:
 - contains()
 - pop()
 - isEmpty()
+```
